@@ -45,5 +45,9 @@
  [Curiosidade de Tecnologia 010](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d010-m2/404.html)
  
  [Cordel Moderno - Com Efeito Parallax 011](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d012-m3/index.html)
+
+ [Exercícios com Tabelas](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d014-m3/tabela001.html)
+
+ 
  
  
