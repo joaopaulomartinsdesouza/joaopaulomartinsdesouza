@@ -23,4 +23,6 @@
 
 ##### Projeto de criação de um site simples desenvolvendo tecnologias HTML5 e CSS3.
 
+## Exercícios Prático no Aprendizado
+ [Desafio 001](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d001-m1/d001.html)
 
