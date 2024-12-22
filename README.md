@@ -1,7 +1,6 @@
 ## Olá, eu sou o João Paulo Martins 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-martins-de-souza-425ab4249/)
-
 ![João Paulo Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulomartinsdesouza&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulomartinsdesouza&hide_progress=true)
 ## Tecnologias que uso...
