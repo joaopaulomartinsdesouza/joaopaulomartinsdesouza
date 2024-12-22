@@ -25,7 +25,11 @@
 
  [Projeto Cordel](https://joaopaulomartinsdesouza.github.io/projeto-cordel/)
 
+ ##### Projeto praticando conceitos de html5 e css3, sobretudo, os efeitos parallax.
+
  [Projeto Redes Socias](https://joaopaulomartinsdesouza.github.io/Projeto-Social/)
+
+ ##### Projeto praticando os conceitos iframes.
 
 ## Exercícios Prático no Aprendizado
  [Desafio das Mensagens 001](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d001-m1/d001.html)
