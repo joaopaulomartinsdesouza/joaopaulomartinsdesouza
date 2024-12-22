@@ -25,15 +25,25 @@
 
 ## Exercícios Prático no Aprendizado
  [Desafio das Mensagens 001](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d001-m1/d001.html)
+ 
  [Desafio das Imagens 002](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d002-m1/d002.html)
+ 
  [Tetando carga e Imagem 003](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/ex003/)
+ 
  [Meus Emojis Favoritos 004](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d004-m1/d004.html)
+ 
  [Minhas Redes Socias 005](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d005-m1/d005.html)
+ 
  [Tags em HTML 006](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d006-m1/d006.html)
+ 
  [Imagem Flexível 007](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d007-m1/d007.html)
+ 
  [Deafio da Nevegação 008](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d008-m1/pagina-cinza.html)
+ 
  [Vídeo Legais Para Assistir 009](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d009-m1/d009-pagina-inicial.html)
+ 
  [Curiosidade de Tecnologia 010](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d010-m2/404.html)
+ 
  [Cordel Moderno - Com Efeito Parallax 011](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d012-m3/index.html)
  
  
