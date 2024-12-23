@@ -52,7 +52,9 @@
  
  [Cordel Moderno - Com Efeito Parallax 011](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d012-m3/index.html)
 
- [Exercícios com Tabelas](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d014-m3/tabela001.html)
+ [Exercícios com Tabelas 012](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/desafios/d014-m3/tabela001.html)
+
+ [Exercicios 013](https://joaopaulomartinsdesouza.github.io/html-css/Exerc%C3%ADcios/ex026/mq005/index.html)
 
  
  
