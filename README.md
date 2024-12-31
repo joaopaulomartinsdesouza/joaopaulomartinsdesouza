@@ -16,6 +16,9 @@
  <img alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+## Projetos Caminho do Código...
+[Projeto Caminho do Código](https://joaopaulomartinsdesouza.github.io/caminho-do-codigo/)
+
 ## Projetos Práticos no Aprendizado Front-End...
  [Projeto Adroind](https://joaopaulomartinsdesouza.github.io/projeto-android/)
 
